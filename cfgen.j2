@@ -1,0 +1,11 @@
+!
+hostname {{ hostname }}
+!
+interface Gi0/0
+ description {{ description }}
+ ip address {{ ip }}
+!
+interface lo0
+ description {{ descloop }}
+ ip address {{ loop }}
+!

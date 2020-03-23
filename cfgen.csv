@@ -1,0 +1,4 @@
+hostname;ip;description;loop;descloop
+R1;10.0.0.1;Port1WAN;1.1.1.1;TestLOOP1
+R2;10.0.0.2;Port2WAN;2.2.2.2;TestLOOP2
+R3;10.0.0.3;Port3WAN;3.3.3.3;TestLOOP3
